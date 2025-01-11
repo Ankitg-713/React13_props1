@@ -8,7 +8,7 @@ function App() {
   return (
      <div>
       <Button text="Know More" color="bg-blue-500" />
-      <Button text="download" color="bg-green-500" />
+      <Button text="download" color="bg-green-400" />
      </div>
   )
 }
